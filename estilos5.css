@@ -1,0 +1,55 @@
+body {
+      font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(144, 229, 244);
+      margin: 0;
+     padding: 0;
+}
+header {
+    background-color: rgb(228, 114, 155);
+    color: rgb(90, 233, 233);
+    padding: 20px;
+    text-align: center;
+}
+table {
+    width: 80%;
+    margin: 20px auto;
+    border-collapse: collapse;
+    background-color: rgb(163, 231, 127);
+}
+th, td {
+    border: 1px solid rgb(91, 94, 236);
+    padding: 12px;
+    text-align: center;
+}
+th {
+    background-color: rgb(56, 27, 200);
+    color: beige;
+}
+footer{
+    background-color: black;
+    color: bisque;
+    text-align: center;
+    padding: 10px;
+}
+h2 {
+    text-align: center;
+    font-size: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
